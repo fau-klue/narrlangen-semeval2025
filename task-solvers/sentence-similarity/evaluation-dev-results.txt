@@ -1,0 +1,165 @@
+============ EN ============
+-- distiluse: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.408 (0.329)
+F1@fine: 0.255 (0.284)
+-- distiluse: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.360 (0.322)
+F1@fine: 0.167 (0.205)
+-- paraphrase: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.317 (0.315)
+F1@fine: 0.158 (0.243)
+-- paraphrase: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.318 (0.305)
+F1@fine: 0.129 (0.186)
+-- mini: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.430 (0.333)
+F1@fine: 0.239 (0.312)
+-- mini: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.373 (0.321)
+F1@fine: 0.187 (0.251)
+-- xlm: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.346 (0.333)
+F1@fine: 0.218 (0.269)
+-- xlm: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.336 (0.352)
+F1@fine: 0.183 (0.255)
+============ PT ============
+-- distiluse: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.307 (0.264)
+F1@fine: 0.154 (0.191)
+-- distiluse: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.325 (0.263)
+F1@fine: 0.156 (0.212)
+-- paraphrase: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.420 (0.319)
+F1@fine: 0.194 (0.220)
+-- paraphrase: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.311 (0.247)
+F1@fine: 0.162 (0.183)
+-- mini: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.313 (0.227)
+F1@fine: 0.175 (0.204)
+-- mini: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.342 (0.213)
+F1@fine: 0.164 (0.158)
+-- xlm: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.382 (0.321)
+F1@fine: 0.139 (0.191)
+-- xlm: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.400 (0.283)
+F1@fine: 0.189 (0.230)
+============ BG ============
+-- distiluse: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.191 (0.167)
+F1@fine: 0.083 (0.100)
+-- distiluse: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.214 (0.158)
+F1@fine: 0.106 (0.128)
+-- paraphrase: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.284 (0.222)
+F1@fine: 0.142 (0.183)
+-- paraphrase: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.267 (0.219)
+F1@fine: 0.145 (0.186)
+-- mini: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.212 (0.204)
+F1@fine: 0.103 (0.165)
+-- mini: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.226 (0.199)
+F1@fine: 0.107 (0.152)
+-- xlm: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.253 (0.215)
+F1@fine: 0.110 (0.152)
+-- xlm: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.255 (0.221)
+F1@fine: 0.123 (0.169)
+============ RU ============
+-- distiluse: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.497 (0.318)
+F1@fine: 0.208 (0.222)
+-- distiluse: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.506 (0.278)
+F1@fine: 0.199 (0.231)
+-- paraphrase: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.461 (0.328)
+F1@fine: 0.282 (0.286)
+-- paraphrase: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.443 (0.316)
+F1@fine: 0.266 (0.282)
+-- mini: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.444 (0.294)
+F1@fine: 0.210 (0.249)
+-- mini: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.495 (0.290)
+F1@fine: 0.237 (0.242)
+-- xlm: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.448 (0.318)
+F1@fine: 0.251 (0.263)
+-- xlm: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.476 (0.305)
+F1@fine: 0.256 (0.291)
+============ HI ============
+-- distiluse: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.185 (0.176)
+F1@fine: 0.069 (0.102)
+-- distiluse: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.198 (0.173)
+F1@fine: 0.087 (0.106)
+-- paraphrase: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.253 (0.252)
+F1@fine: 0.180 (0.227)
+-- paraphrase: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.320 (0.278)
+F1@fine: 0.178 (0.219)
+-- mini: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.246 (0.190)
+F1@fine: 0.148 (0.129)
+-- mini: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.285 (0.217)
+F1@fine: 0.153 (0.170)
+-- xlm: paragraph-paragraph
+Evaluation Results:
+F1@coarse: 0.264 (0.210)
+F1@fine: 0.133 (0.150)
+-- xlm: paragraph-sentence
+Evaluation Results:
+F1@coarse: 0.232 (0.187)
+F1@fine: 0.118 (0.142)
