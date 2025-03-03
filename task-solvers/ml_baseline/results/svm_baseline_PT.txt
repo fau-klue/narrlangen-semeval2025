@@ -1,0 +1,35 @@
+PT_201.txt	Other	CC: Criticism of climate movement: Other;CC: Amplifying Climate Fears: Other;CC: Criticism of institutions and authorities: Criticism of the EU
+PT_202.txt	Other	CC: Criticism of climate movement: Ad hominem attacks on key activists;CC: Amplifying Climate Fears: Other;CC: Criticism of institutions and authorities: Other
+PT_203.txt	Other	CC: Criticism of climate movement: Ad hominem attacks on key activists;CC: Criticism of institutions and authorities: Other;CC: Downplaying climate change: Human activities do not impact climate change
+PT_204.txt	Other	CC: Criticism of climate movement: Climate movement is corrupt;CC: Criticism of climate movement: Ad hominem attacks on key activists;CC: Downplaying climate change: Climate cycles are natural
+PT_205.txt	Other	CC: Criticism of climate movement: Other;CC: Criticism of institutions and authorities: Other;CC: Amplifying Climate Fears: Other
+PT_206.txt	Other	CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives;CC: Downplaying climate change: Sea levels are not rising;CC: Downplaying climate change: Ice is not melting
+PT_207.txt	Other	CC: Downplaying climate change: Sea levels are not rising;CC: Downplaying climate change: Ice is not melting;CC: Hidden plots by secret schemes of powerful groups: Other
+PT_208.txt	Other	CC: Downplaying climate change: Ice is not melting;CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives;CC: Criticism of institutions and authorities: Criticism of the EU
+PT_209.txt	Other	CC: Hidden plots by secret schemes of powerful groups: Other;CC: Questioning the measurements and science: Other;CC: Questioning the measurements and science: Scientific community is unreliable
+PT_210.txt	Other	CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives;CC: Criticism of climate policies: Climate policies are ineffective;CC: Hidden plots by secret schemes of powerful groups: Other
+PT_211.txt	Other	CC: Criticism of institutions and authorities: Criticism of national governments;CC: Climate change is beneficial: CO2 is beneficial;CC: Amplifying Climate Fears: Doomsday scenarios for humans
+PT_213.txt	Other	CC: Criticism of climate movement: Climate movement is corrupt;CC: Downplaying climate change: Climate cycles are natural;CC: Climate change is beneficial: CO2 is beneficial
+PT_216.txt	Other	CC: Climate change is beneficial: Temperature increase is beneficial;CC: Controversy about green technologies: Renewable energy is dangerous;CC: Criticism of climate movement: Other
+PT_217.txt	Other	CC: Criticism of climate movement: Climate movement is alarmist;CC: Amplifying Climate Fears: Earth will be uninhabitable soon;CC: Climate change is beneficial: Temperature increase is beneficial
+PT_220.txt	Other	CC: Criticism of climate movement: Climate movement is corrupt;CC: Criticism of climate policies: Climate policies have negative impact on the economy;CC: Controversy about green technologies: Other
+PT_221.txt	Other	CC: Questioning the measurements and science: Scientific community is unreliable;URW: Amplifying war-related fears: By continuing the war we risk WWIII;CC: Downplaying climate change: Sea levels are not rising
+PT_224.txt	Other	CC: Climate change is beneficial: CO2 is beneficial;CC: Criticism of institutions and authorities: Criticism of national governments;CC: Amplifying Climate Fears: Doomsday scenarios for humans
+PT_225.txt	Other	CC: Controversy about green technologies: Renewable energy is dangerous;CC: Downplaying climate change: Human activities do not impact climate change;CC: Climate change is beneficial: CO2 is beneficial
+PT_226.txt	Other	CC: Amplifying Climate Fears: Whatever we do it is already too late;CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Doomsday scenarios for humans
+PT_228.txt	Other	CC: Criticism of climate policies: Other;CC: Amplifying Climate Fears: Whatever we do it is already too late;CC: Climate change is beneficial: CO2 is beneficial
+PT_229.txt	Other	CC: Climate change is beneficial: CO2 is beneficial;CC: Criticism of climate policies: Other;CC: Amplifying Climate Fears: Doomsday scenarios for humans
+PT_230.txt	Other	CC: Downplaying climate change: Humans and nature will adapt to the changes;CC: Hidden plots by secret schemes of powerful groups: Other;CC: Questioning the measurements and science: Methodologies/metrics used are unreliable/faulty
+PT_232.txt	Other	CC: Climate change is beneficial: CO2 is beneficial;CC: Climate change is beneficial: Temperature increase is beneficial;CC: Criticism of climate movement: Climate movement is alarmist
+PT_233.txt	Other	CC: Controversy about green technologies: Renewable energy is dangerous;CC: Controversy about green technologies: Other;CC: Criticism of climate movement: Other
+PT_234.txt	Other	CC: Downplaying climate change: Sea levels are not rising;CC: Questioning the measurements and science: Scientific community is unreliable;URW: Amplifying war-related fears: By continuing the war we risk WWIII
+PT_237.txt	Other	CC: Climate change is beneficial: CO2 is beneficial;CC: Criticism of climate policies: Other;CC: Amplifying Climate Fears: Doomsday scenarios for humans
+PT_239.txt	Other	CC: Downplaying climate change: Sea levels are not rising;CC: Downplaying climate change: Ice is not melting;CC: Hidden plots by secret schemes of powerful groups: Other
+PT_241.txt	Other	CC: Downplaying climate change: Sea levels are not rising;CC: Downplaying climate change: Ice is not melting;CC: Hidden plots by secret schemes of powerful groups: Other
+PT_244.txt	Other	CC: Criticism of climate movement: Climate movement is corrupt;CC: Climate change is beneficial: CO2 is beneficial;CC: Criticism of climate movement: Other
+PT_245.txt	Other	CC: Criticism of climate movement: Climate movement is corrupt;CC: Climate change is beneficial: CO2 is beneficial;CC: Amplifying Climate Fears: Earth will be uninhabitable soon
+PT_249.txt	Other	CC: Hidden plots by secret schemes of powerful groups: Other;CC: Criticism of climate movement: Ad hominem attacks on key activists;CC: Downplaying climate change: Ice is not melting
+PT_250.txt	Other	CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives;CC: Downplaying climate change: Sea levels are not rising;CC: Downplaying climate change: Ice is not melting
+PT_253.txt	Other	CC: Climate change is beneficial: CO2 is beneficial;CC: Criticism of climate movement: Climate movement is corrupt;CC: Criticism of institutions and authorities: Criticism of national governments
+PT_254.txt	Other	CC: Questioning the measurements and science: Methodologies/metrics used are unreliable/faulty;CC: Amplifying Climate Fears: Doomsday scenarios for humans;CC: Controversy about green technologies: Renewable energy is dangerous
+PT_259.txt	Other	CC: Questioning the measurements and science: Methodologies/metrics used are unreliable/faulty;CC: Downplaying climate change: Humans and nature will adapt to the changes;CC: Questioning the measurements and science: Other
