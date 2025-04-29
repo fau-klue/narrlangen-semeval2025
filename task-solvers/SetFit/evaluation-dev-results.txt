@@ -1,0 +1,25 @@
+============ EN ============
+-- setfit: multilingual
+Evaluation Results:
+F1@coarse: 0.392 (0.420)
+F1@fine: 0.321 (0.403)
+============ BG ============
+-- setfit: multilingual
+Evaluation Results:
+F1@coarse: 0.390 (0.461)
+F1@fine: 0.362 (0.437)
+============ PT ============
+-- setfit: multilingual
+Evaluation Results:
+F1@coarse: 0.297 (0.428)
+F1@fine: 0.188 (0.336)
+============ RU ============
+-- setfit: multilingual
+Evaluation Results:
+F1@coarse: 0.242 (0.402)
+F1@fine: 0.231 (0.387)
+============ HI ============
+-- setfit: multilingual
+Evaluation Results:
+F1@coarse: 0.286 (0.430)
+F1@fine: 0.219 (0.362)
