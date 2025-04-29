@@ -46,7 +46,6 @@ def encode_labels(record) -> dict[str, list[list[int]]]:
 
 
 if __name__ == '__main__':
-
     path_dataset1 = "../../task_data/subtask2_hf/EN_fine-grained/"
     path_dataset2 = "../../task_data/subtask2_hf/BG_fine-grained/"
     path_dataset3 = "../../task_data/subtask2_hf/HI_fine-grained/"
@@ -101,7 +100,7 @@ if __name__ == '__main__':
     print(classification_report(eval_dataset["labels"], preds.tolist()))
 
     # Push model to the Hub
-    # trainer.push_to_hub("AndreasBlombach/setfit_schwurpert_train_desc_optimised")
+    # trainer.push_to_hub("...")
 
     # Save locally
     trainer.model.save_pretrained(path_model)
