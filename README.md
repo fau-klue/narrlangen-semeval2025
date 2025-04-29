@@ -9,7 +9,7 @@ Our [task solvers](task-solvers/) comprise
 - simple (bag-of-words) machine learning [baselines](task-solvers/ml_baseline/),
 - prompt engineering of LLMs (only for English), 
 - a zero-shot approach based on [sentence similarity](task-solvers/sentence-similarity/),
-- direct classification of fine-grained labels using SetFit, 
+- direct classification of fine-grained labels using [SetFit](task-solvers/SetFit/), 
 - fine-tuning encoder models on fine-grained labels, 
 - and [hierarchical classification](task-solvers/multi_label_hierarchical_model/) using encoder models with two different classification heads.
 
