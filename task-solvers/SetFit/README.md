@@ -14,7 +14,7 @@
 - `path_data` and `path_model` in the file need to be changed according to the proper locations on your system
 - we provide results per language in the squashed format needed for submissions (but files in matrix format and predicted probabilities of fine-grained labels will also be written to separate files)
 
-## evaluation
+## Evaluation
 - we run the script provided by the organisers for all languages and splits (`evaluation-dev.sh`)
 - output is saved as `evaluation-dev-results.txt`
 - `evaluation-dev-convert.py` converts to .tsv and .tex
