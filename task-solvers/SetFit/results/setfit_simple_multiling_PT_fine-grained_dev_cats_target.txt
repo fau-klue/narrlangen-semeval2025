@@ -1,0 +1,35 @@
+PT_201.txt	Other	Other
+PT_202.txt	Other	Other
+PT_203.txt	Other	Other
+PT_204.txt	Other	Other
+PT_205.txt	Other	Other
+PT_206.txt	Other	Other
+PT_207.txt	Other	Other
+PT_208.txt	Other	Other
+PT_209.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of political organizations and figures
+PT_210.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_211.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_213.txt	Other	Other
+PT_216.txt	Other	Other
+PT_217.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_220.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_221.txt	Other	Other
+PT_224.txt	Other	Other
+PT_225.txt	Other	Other
+PT_226.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_228.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Other
+PT_229.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_230.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Other
+PT_232.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Other
+PT_233.txt	Other	Other
+PT_234.txt	Other	Other
+PT_237.txt	Other	Other
+PT_239.txt	Other	Other
+PT_241.txt	Other	Other
+PT_244.txt	Other	Other
+PT_245.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+PT_249.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+PT_250.txt	Other	Other
+PT_253.txt	Other	Other
+PT_254.txt	Other	Other
+PT_259.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies

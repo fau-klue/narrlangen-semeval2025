@@ -1,0 +1,35 @@
+HI_10.txt	Other	Other
+HI_107.txt	Other	Other
+HI_11.txt	Other	Other
+HI_110.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_114.txt	Other	Other
+HI_12.txt	Other	Other
+HI_125.txt	Other	Other
+HI_126.txt	Other	Other
+HI_134.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_139.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Other
+HI_140.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_143.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_151.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_152.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_154.txt	Other	Other
+HI_156.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_158.txt	Other	Other
+HI_159.txt	Other	Other
+HI_160.txt	Other	Other
+HI_17.txt	Other	Other
+HI_19.txt	Other	Other
+HI_26.txt	Other	Other
+HI_28.txt	Other	Other
+HI_31.txt	Other	Other
+HI_34.txt	Other	Other
+HI_35.txt	Other	Other
+HI_38.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_4.txt	Other	Other
+HI_5.txt	Other	Other
+HI_51.txt	Other	Other
+HI_71.txt	URW: Distrust towards Media	URW: Distrust towards Media: Western media is an instrument of propaganda;Other
+HI_75.txt	Other	Other
+HI_76.txt	Other	Other
+HI_95.txt	Other	Other
+HI_97.txt	Other	Other

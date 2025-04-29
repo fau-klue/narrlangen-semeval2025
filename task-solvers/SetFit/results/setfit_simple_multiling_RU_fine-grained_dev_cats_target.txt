@@ -1,0 +1,32 @@
+RU-URW-1004.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+RU-URW-1014.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+RU-URW-1023.txt	Other	Other
+RU-URW-1032.txt	Other	Other
+RU-URW-1043.txt	Other	Other
+RU-URW-1053.txt	Other	Other
+RU-URW-1061.txt	Other	Other
+RU-URW-1069.txt	Other	Other
+RU-URW-1073.txt	Other	Other
+RU-URW-1077.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+RU-URW-1085.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+RU-URW-1089.txt	Other	Other
+RU-URW-1090.txt	Other	Other
+RU-URW-1093.txt	Other	Other
+RU-URW-1101.txt	Other	Other
+RU-URW-1102.txt	Other	Other
+RU-URW-1110.txt	Other	Other
+RU-URW-1118.txt	Other	Other
+RU-URW-1120.txt	Other	Other
+RU-URW-1127.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+RU-URW-1133.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+RU-URW-1135.txt	Other	Other
+RU-URW-1139.txt	Other	Other
+RU-URW-1146.txt	Other	Other
+RU-URW-1147.txt	Other	Other
+RU-URW-1152.txt	Other	Other
+RU-URW-1166.txt	Other	Other
+RU-URW-1168.txt	URW: Discrediting Ukraine;URW: Praise of Russia;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1170.txt	Other	Other
+RU-URW-1171.txt	Other	Other
+RU-URW-1174.txt	Other	Other
+RU-URW-1184.txt	Other	Other
