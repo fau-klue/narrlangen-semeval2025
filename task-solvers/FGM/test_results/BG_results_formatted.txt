@@ -1,0 +1,100 @@
+A4_URW_BG_4742.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine;URW: Praise of Russia;URW: Speculating war outcomes;URW: Speculating war outcomes	URW: Discrediting the West, Diplomacy: The West is weak;URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Praise of Russia: Praise of Russian military might;URW: Speculating war outcomes: Ukrainian army is collapsing;URW: Speculating war outcomes: Other
+A5_CC_BG_10017.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Earth will be uninhabitable soon;CC: Amplifying Climate Fears: Other
+A5_CC_BG_10207.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A4_URW_BG_14392.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+A8_CC_BG_10060.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A8_CC_BG_9312.txt	CC: Criticism of institutions and authorities;CC: Hidden plots by secret schemes of powerful groups	CC: Criticism of institutions and authorities: Criticism of international entities;CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives
+A4_URW_BG_13718.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+A8_CC_BG_8713.txt	CC: Criticism of climate policies	CC: Criticism of climate policies: Climate policies have negative impact on the economy
+A8_CC_BG_9899.txt	Other	Other
+A6_CC_BG_10653.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A8_CC_BG_8880.txt	CC: Amplifying Climate Fears;CC: Criticism of institutions and authorities	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of institutions and authorities: Criticism of international entities
+A4_URW_BG_5559.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: The West are the aggressors
+A4_URW_BG_14164.txt	Other	Other
+A8_CC_BG_9837.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Doomsday scenarios for humans
+A4_URW_BG_15004.txt	Other	Other
+A8_CC_BG_8630.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Doomsday scenarios for humans;CC: Amplifying Climate Fears: Earth will be uninhabitable soon
+A5_CC_BG_11754.txt	CC: Amplifying Climate Fears;CC: Criticism of climate policies	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of climate policies: Climate policies are ineffective
+A5_CC_BG_10852.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities
+A6_CC_BG_9126.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A6_CC_BG_10884.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Other
+A6_CC_BG_8481.txt	CC: Amplifying Climate Fears;CC: Criticism of institutions and authorities	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of institutions and authorities: Criticism of political organizations and figures
+A4_URW_BG_14489.txt	URW: Discrediting Ukraine;URW: Speculating war outcomes	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Speculating war outcomes: Ukrainian army is collapsing
+A4_URW_BG_4123.txt	URW: Amplifying war-related fears;URW: Discrediting Ukraine;URW: Discrediting Ukraine	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Discrediting Ukraine: Ukraine is a puppet of the West
+A8_CC_BG_10002.txt	CC: Controversy about green technologies;CC: Criticism of climate policies;CC: Criticism of climate policies;CC: Criticism of institutions and authorities	CC: Controversy about green technologies: Renewable energy is costly;CC: Criticism of climate policies: Climate policies are ineffective;CC: Criticism of climate policies: Climate policies have negative impact on the economy;CC: Criticism of institutions and authorities: Criticism of the EU
+A5_CC_BG_10689.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+A4_URW_BG_4398.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+A8_CC_BG_9921.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A4_URW_BG_15322.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+A8_CC_BG_9066.txt	URW: Amplifying war-related fears;URW: Discrediting the West, Diplomacy	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Discrediting the West, Diplomacy: Other
+A5_CC_BG_11335.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A4_URW_BG_14090.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears;URW: Discrediting Ukraine	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Discrediting Ukraine: Ukraine is a puppet of the West
+A4_URW_BG_15564.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Praise of Russia: Praise of Russian military might
+A4_URW_BG_15555.txt	Other	Other
+A5_CC_BG_11269.txt	Other	Other
+A8_CC_BG_8528.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Doomsday scenarios for humans;CC: Amplifying Climate Fears: Earth will be uninhabitable soon
+A4_URW_BG_15605.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Ukrainian army is collapsing
+A4_URW_BG_15410.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+A5_CC_BG_8521.txt	CC: Controversy about green technologies;CC: Controversy about green technologies;CC: Controversy about green technologies;CC: Criticism of climate policies	CC: Controversy about green technologies: Renewable energy is costly;CC: Controversy about green technologies: Renewable energy is dangerous;CC: Controversy about green technologies: Renewable energy is unreliable;CC: Criticism of climate policies: Climate policies have negative impact on the economy
+A8_CC_BG_9241.txt	CC: Criticism of climate policies;CC: Criticism of institutions and authorities	CC: Criticism of climate policies: Climate policies have negative impact on the economy;CC: Criticism of institutions and authorities: Criticism of the EU
+A4_URW_BG_14349.txt	URW: Discrediting the West, Diplomacy;URW: Speculating war outcomes	URW: Discrediting the West, Diplomacy: The West is weak;URW: Speculating war outcomes: Other
+A5_CC_BG_11904.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A4_URW_BG_15640.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+A5_CC_BG_10096.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A6_CC_BG_10563.txt	Other	Other
+A8_CC_BG_10158.txt	Other	Other
+A8_CC_BG_9039.txt	CC: Criticism of institutions and authorities;CC: Hidden plots by secret schemes of powerful groups	CC: Criticism of institutions and authorities: Criticism of political organizations and figures;CC: Hidden plots by secret schemes of powerful groups: Other
+A4_URW_BG_4492.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+A8_CC_BG_9229.txt	Other	Other
+A4_URW_BG_6378.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: Other
+A4_URW_BG_2619.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+A5_CC_BG_10220.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Doomsday scenarios for humans;CC: Amplifying Climate Fears: Earth will be uninhabitable soon
+A8_CC_BG_8558.txt	CC: Amplifying Climate Fears;CC: Criticism of institutions and authorities;CC: Criticism of institutions and authorities	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of institutions and authorities: Criticism of national governments;CC: Criticism of institutions and authorities: Criticism of political organizations and figures
+A4_URW_BG_5187.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+A4_URW_BG_14793.txt	URW: Amplifying war-related fears;URW: Blaming the war on others rather than the invader	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Blaming the war on others rather than the invader: The West are the aggressors
+A4_URW_BG_15026.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+A4_URW_BG_14974.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: The West are the aggressors
+A5_CC_BG_10024.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Earth will be uninhabitable soon;CC: Amplifying Climate Fears: Other
+A4_URW_BG_2781.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears;URW: Discrediting Ukraine	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Discrediting Ukraine: Ukraine is a puppet of the West
+A8_CC_BG_9112.txt	CC: Criticism of climate policies;CC: Criticism of climate policies;CC: Criticism of institutions and authorities	CC: Criticism of climate policies: Climate policies are ineffective;CC: Criticism of climate policies: Climate policies are only for profit;CC: Criticism of institutions and authorities: Criticism of international entities
+A4_URW_BG_14508.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a puppet of the West
+A5_CC_BG_10174.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A8_CC_BG_9871.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A8_CC_BG_10148.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A4_URW_BG_14055.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a puppet of the West
+A8_CC_BG_9422.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A4_URW_BG_13742.txt	Other	Other
+A4_URW_BG_13741.txt	Other	Other
+A5_CC_BG_11003.txt	Other	Other
+A4_URW_BG_14771.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+A8_CC_BG_8657.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Doomsday scenarios for humans;CC: Amplifying Climate Fears: Earth will be uninhabitable soon
+A4_URW_BG_14721.txt	URW: Amplifying war-related fears;URW: Discrediting the West, Diplomacy	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Discrediting the West, Diplomacy: The West is weak
+A5_CC_BG_8629.txt	CC: Criticism of climate policies;CC: Criticism of climate policies;CC: Criticism of institutions and authorities	CC: Criticism of climate policies: Climate policies are ineffective;CC: Criticism of climate policies: Climate policies have negative impact on the economy;CC: Criticism of institutions and authorities: Criticism of the EU
+A6_CC_BG_10457.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A4_URW_BG_14028.txt	URW: Blaming the war on others rather than the invader;URW: Discrediting the West, Diplomacy	URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Discrediting the West, Diplomacy: Other
+A4_URW_BG_14679.txt	Other	Other
+A4_URW_BG_15196.txt	URW: Amplifying war-related fears;URW: Discrediting Ukraine	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Discrediting Ukraine: Ukraine is a puppet of the West
+A8_CC_BG_9189.txt	Other	Other
+A4_URW_BG_4267.txt	URW: Discrediting the West, Diplomacy;URW: Praise of Russia	URW: Discrediting the West, Diplomacy: Other;URW: Praise of Russia: Praise of Russian President Vladimir Putin
+A4_URW_BG_15589.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+A4_URW_BG_15138.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+A4_URW_BG_4639.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: The West are the aggressors
+A8_CC_BG_9714.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A5_CC_BG_11114.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A8_CC_BG_9475.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A4_URW_BG_14786.txt	URW: Discrediting Ukraine;URW: Praise of Russia;URW: Speculating war outcomes	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might;URW: Speculating war outcomes: Ukrainian army is collapsing
+A4_URW_BG_14651.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+A4_URW_BG_14770.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+A4_URW_BG_15017.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Ukraine is a puppet of the West
+A4_URW_BG_3138.txt	Other	Other
+A5_CC_BG_11371.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A4_URW_BG_14866.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: The West are the aggressors
+A4_URW_BG_14024.txt	Other	Other
+A4_URW_BG_15411.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+A5_CC_BG_1041.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A4_URW_BG_15666.txt	URW: Blaming the war on others rather than the invader;URW: Discrediting Ukraine	URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Discrediting Ukraine: Ukraine is a puppet of the West
+A4_URW_BG_3281.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The EU is divided;URW: Discrediting the West, Diplomacy: The West is weak;URW: Discrediting the West, Diplomacy: Other
+A8_CC_BG_8557.txt	Other	Other
+A4_URW_BG_2746.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+A4_URW_BG_15623.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Praise of Russia: Praise of Russian military might
+A6_CC_BG_10117.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming

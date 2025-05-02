@@ -1,0 +1,60 @@
+RU-URW-1218.txt	Other	Other
+RU-URW-1224.txt	Other	Other
+RU-URW-1219.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Discrediting Ukrainian military
+RU-URW-1302.txt	Other	Other
+RU-URW-1196.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting the West, Diplomacy: The EU is divided;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1188.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+RU-URW-1186.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1223.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1317.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting the West, Diplomacy: Other;URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1227.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1221.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1234.txt	Other	Other
+RU-URW-1208.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1192.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1200.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: Other
+RU-URW-1230.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Discrediting the West, Diplomacy: The West is weak;URW: Discrediting the West, Diplomacy: Other
+RU-URW-1199.txt	Other	Other
+RU-URW-1228.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1202.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+RU-URW-1190.txt	Other	Other
+RU-URW-1197.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1295.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+RU-URW-1220.txt	URW: Discrediting Ukraine;URW: Praise of Russia;URW: Praise of Russia;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might;URW: Praise of Russia: Praise of Russian President Vladimir Putin;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1237.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+RU-URW-1204.txt	URW: Blaming the war on others rather than the invader;URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine	URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Discrediting the West, Diplomacy: Other;URW: Discrediting Ukraine: Discrediting Ukrainian military
+RU-URW-1189.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1201.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+RU-URW-1325.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine	URW: Discrediting the West, Diplomacy: The EU is divided;URW: Discrediting the West, Diplomacy: Other;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+RU-URW-1191.txt	URW: Discrediting Ukraine;URW: Praise of Russia;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Praise of Russia: Praise of Russian President Vladimir Putin;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1311.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1229.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1216.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Discrediting Ukrainian military
+RU-URW-1211.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine	URW: Discrediting the West, Diplomacy: The EU is divided;URW: Discrediting the West, Diplomacy: The West is weak;URW: Discrediting the West, Diplomacy: Other;URW: Discrediting Ukraine: Ukraine is a puppet of the West
+RU-URW-1232.txt	URW: Discrediting Ukraine;URW: Praise of Russia;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1207.txt	URW: Amplifying war-related fears;URW: Discrediting the West, Diplomacy	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Discrediting the West, Diplomacy: The West is weak
+RU-URW-1226.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Praise of Russia;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1233.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+RU-URW-1195.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+RU-URW-1333.txt	URW: Praise of Russia;URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1217.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1238.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+RU-URW-1210.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Praise of Russia;URW: Praise of Russia;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might;URW: Praise of Russia: Praise of Russian President Vladimir Putin;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1187.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1206.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1235.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Discrediting Ukrainian military
+RU-URW-1225.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1203.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine	URW: Discrediting the West, Diplomacy: The EU is divided;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+RU-URW-1231.txt	Other	Other
+RU-URW-1194.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1209.txt	URW: Discrediting Ukraine;URW: Distrust towards Media;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Distrust towards Media: Western media is an instrument of propaganda;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1292.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+RU-URW-1193.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The EU is divided
+RU-URW-1185.txt	Other	Other
+RU-URW-1222.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+RU-URW-1205.txt	URW: Discrediting Ukraine;URW: Negative Consequences for the West;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Negative Consequences for the West: Other;URW: Praise of Russia: Praise of Russian military might
+RU-URW-1215.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1214.txt	URW: Blaming the war on others rather than the invader;URW: Discrediting Ukraine;URW: Praise of Russia	URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1239.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+RU-URW-1198.txt	Other	Other
+RU-URW-1236.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might

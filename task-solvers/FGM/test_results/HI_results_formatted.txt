@@ -1,0 +1,99 @@
+HI_URW_TEST_474.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+HI_URW_TEST_466.txt	Other	Other
+HI_CC_TEST_412.txt	CC: Amplifying Climate Fears;CC: Criticism of institutions and authorities	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of institutions and authorities: Criticism of international entities
+HI_URW_TEST_456.txt	Other	Other
+HI_CC_TEST_414.txt	CC: Amplifying Climate Fears;CC: Criticism of institutions and authorities	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of institutions and authorities: Criticism of international entities
+HI_URW_TEST_502.txt	URW: Amplifying war-related fears;URW: Praise of Russia	URW: Amplifying war-related fears: Other;URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_URW_TEST_522.txt	Other	Other
+HI_URW_TEST_496.txt	Other	Other
+HI_URW_TEST_504.txt	Other	Other
+HI_URW_TEST_473.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_URW_TEST_480.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_URW_TEST_482.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+HI_URW_TEST_459.txt	Other	Other
+HI_URW_TEST_515.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_URW_TEST_514.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_URW_TEST_516.txt	Other	Other
+HI_CC_TEST_407.txt	Other	Other
+HI_CC_TEST_421.txt	Other	Other
+HI_URW_TEST_517.txt	Other	Other
+HI_CC_TEST_411.txt	CC: Amplifying Climate Fears;CC: Criticism of institutions and authorities	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of institutions and authorities: Criticism of international entities
+HI_URW_TEST_501.txt	Other	Other
+HI_URW_TEST_484.txt	Other	Other
+HI_URW_TEST_524.txt	Other	Other
+HI_URW_TEST_512.txt	URW: Russia is the Victim;URW: Speculating war outcomes	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Speculating war outcomes: Other
+HI_URW_TEST_492.txt	Other	Other
+HI_URW_TEST_494.txt	Other	Other
+HI_CC_TEST_410.txt	Other	Other
+HI_CC_TEST_416.txt	Other	Other
+HI_URW_TEST_461.txt	URW: Discrediting the West, Diplomacy;URW: Speculating war outcomes	URW: Discrediting the West, Diplomacy: The West is weak;URW: Speculating war outcomes: Other
+HI_URW_TEST_510.txt	URW: Praise of Russia;URW: Speculating war outcomes	URW: Praise of Russia: Praise of Russian military might;URW: Speculating war outcomes: Other
+HI_URW_TEST_479.txt	URW: Russia is the Victim	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_URW_TEST_505.txt	Other	Other
+HI_URW_TEST_513.txt	Other	Other
+HI_URW_TEST_535.txt	Other	Other
+HI_CC_TEST_405.txt	CC: Amplifying Climate Fears;CC: Criticism of climate policies	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of climate policies: Climate policies have negative impact on the economy
+HI_URW_TEST_533.txt	Other	Other
+HI_URW_TEST_530.txt	Other	Other
+HI_URW_TEST_478.txt	Other	Other
+HI_URW_TEST_521.txt	Other	Other
+HI_URW_TEST_468.txt	Other	Other
+HI_URW_TEST_472.txt	Other	Other
+HI_URW_TEST_497.txt	Other	Other
+HI_URW_TEST_475.txt	URW: Amplifying war-related fears;URW: Blaming the war on others rather than the invader	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_URW_TEST_483.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+HI_CC_TEST_420.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_URW_TEST_527.txt	Other	Other
+HI_URW_TEST_520.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_URW_TEST_490.txt	Other	Other
+HI_URW_TEST_488.txt	Other	Other
+HI_URW_TEST_523.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_URW_TEST_495.txt	Other	Other
+HI_URW_TEST_519.txt	Other	Other
+HI_URW_TEST_463.txt	Other	Other
+HI_URW_TEST_507.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Amplifying war-related fears: Russia will also attack other countries;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_URW_TEST_528.txt	URW: Praise of Russia;URW: Speculating war outcomes	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Speculating war outcomes: Other
+HI_URW_TEST_534.txt	URW: Negative Consequences for the West	URW: Negative Consequences for the West: Other
+HI_URW_TEST_487.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_URW_TEST_491.txt	Other	Other
+HI_URW_TEST_518.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_URW_TEST_493.txt	Other	Other
+HI_CC_TEST_408.txt	Other	Other
+HI_URW_TEST_508.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_URW_TEST_529.txt	Other	Other
+HI_URW_TEST_489.txt	Other	Other
+HI_CC_TEST_419.txt	Other	Other
+HI_URW_TEST_506.txt	Other	Other
+HI_URW_TEST_511.txt	Other	Other
+HI_CC_TEST_415.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;Other
+HI_URW_TEST_531.txt	Other	Other
+HI_CC_TEST_417.txt	Other	Other
+HI_URW_TEST_481.txt	URW: Russia is the Victim	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_URW_TEST_485.txt	Other	Other
+HI_URW_TEST_525.txt	URW: Russia is the Victim	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_URW_TEST_470.txt	Other	Other
+HI_URW_TEST_509.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_URW_TEST_477.txt	Other	Other
+HI_URW_TEST_467.txt	Other	Other
+HI_URW_TEST_471.txt	URW: Praise of Russia;URW: Speculating war outcomes	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Speculating war outcomes: Other
+HI_URW_TEST_476.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_CC_TEST_402.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities
+HI_URW_TEST_499.txt	Other	Other
+HI_CC_TEST_409.txt	Other	Other
+HI_URW_TEST_532.txt	URW: Negative Consequences for the West	URW: Negative Consequences for the West: Other
+HI_URW_TEST_503.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_CC_TEST_404.txt	Other	Other
+HI_CC_TEST_403.txt	Other	Other
+HI_URW_TEST_464.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_URW_TEST_457.txt	Other	Other
+HI_URW_TEST_460.txt	Other	Other
+HI_CC_TEST_413.txt	Other	Other
+HI_URW_TEST_462.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_URW_TEST_526.txt	Other	Other
+HI_URW_TEST_498.txt	Other	Other
+HI_CC_TEST_418.txt	CC: Criticism of climate policies	CC: Criticism of climate policies: Climate policies have negative impact on the economy
+HI_CC_TEST_406.txt	Other	Other
+HI_URW_TEST_458.txt	URW: Amplifying war-related fears;URW: Praise of Russia;URW: Russia is the Victim	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Praise of Russia: Praise of Russian military might;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_URW_TEST_469.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Ukrainian army is collapsing
+HI_URW_TEST_500.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_URW_TEST_486.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other

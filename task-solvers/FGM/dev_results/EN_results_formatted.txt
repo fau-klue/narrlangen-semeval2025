@@ -1,0 +1,41 @@
+EN_CC_200030.txt	Other	Other
+EN_CC_200033.txt	CC: Criticism of climate movement;CC: Criticism of institutions and authorities	CC: Criticism of climate movement: Ad hominem attacks on key activists;CC: Criticism of institutions and authorities: Criticism of political organizations and figures
+EN_CC_200034.txt	CC: Controversy about green technologies;CC: Controversy about green technologies;CC: Hidden plots by secret schemes of powerful groups	CC: Controversy about green technologies: Renewable energy is costly;CC: Controversy about green technologies: Renewable energy is dangerous;CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives
+EN_CC_200035.txt	Other	Other
+EN_CC_200036.txt	CC: Criticism of climate movement;CC: Criticism of climate movement;CC: Criticism of climate movement;CC: Criticism of institutions and authorities;CC: Hidden plots by secret schemes of powerful groups	CC: Criticism of climate movement: Ad hominem attacks on key activists;CC: Criticism of climate movement: Climate movement is alarmist;CC: Criticism of climate movement: Climate movement is corrupt;CC: Criticism of institutions and authorities: Criticism of political organizations and figures;CC: Hidden plots by secret schemes of powerful groups: Blaming global elites
+EN_CC_200040.txt	CC: Criticism of climate movement;CC: Criticism of climate movement	CC: Criticism of climate movement: Ad hominem attacks on key activists;CC: Criticism of climate movement: Other
+EN_CC_200046.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+EN_CC_200047.txt	CC: Criticism of institutions and authorities;CC: Criticism of institutions and authorities;CC: Criticism of institutions and authorities;CC: Hidden plots by secret schemes of powerful groups;CC: Hidden plots by secret schemes of powerful groups	CC: Criticism of institutions and authorities: Criticism of international entities;CC: Criticism of institutions and authorities: Criticism of national governments;CC: Criticism of institutions and authorities: Criticism of political organizations and figures;CC: Hidden plots by secret schemes of powerful groups: Blaming global elites;CC: Hidden plots by secret schemes of powerful groups: Other
+EN_CC_200049.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Earth will be uninhabitable soon;CC: Amplifying Climate Fears: Other
+EN_CC_200050.txt	Other	Other
+EN_CC_200053.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities
+EN_CC_200054.txt	Other	Other
+EN_CC_200060.txt	Other	Other
+EN_CC_200063.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities;Other
+EN_CC_200064.txt	Other	Other
+EN_CC_200065.txt	Other	Other
+EN_CC_200069.txt	CC: Criticism of institutions and authorities;CC: Hidden plots by secret schemes of powerful groups	CC: Criticism of institutions and authorities: Criticism of national governments;CC: Hidden plots by secret schemes of powerful groups: Blaming global elites
+EN_CC_200070.txt	Other	Other
+EN_CC_200071.txt	CC: Criticism of climate policies;CC: Criticism of climate policies	CC: Criticism of climate policies: Climate policies are ineffective;CC: Criticism of climate policies: Climate policies have negative impact on the economy
+EN_CC_200077.txt	CC: Criticism of climate policies;CC: Criticism of climate policies	CC: Criticism of climate policies: Climate policies have negative impact on the economy;CC: Criticism of climate policies: Other
+EN_CC_200078.txt	Other	Other
+EN_CC_200079.txt	CC: Hidden plots by secret schemes of powerful groups;CC: Hidden plots by secret schemes of powerful groups	CC: Hidden plots by secret schemes of powerful groups: Blaming global elites;CC: Hidden plots by secret schemes of powerful groups: Other
+EN_CC_200081.txt	Other	Other
+EN_CC_200085.txt	Other	Other
+EN_UA_DEV_100002.txt	URW: Blaming the war on others rather than the invader;URW: Discrediting the West, Diplomacy	URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+EN_UA_DEV_100003.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+EN_UA_DEV_100004.txt	URW: Blaming the war on others rather than the invader;URW: Praise of Russia	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Praise of Russia: Praise of Russian military might
+EN_UA_DEV_100005.txt	URW: Amplifying war-related fears;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Discrediting the West, Diplomacy: The West is weak;URW: Discrediting the West, Diplomacy: Other
+EN_UA_DEV_100012.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+EN_UA_DEV_100013.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Ukraine is a puppet of the West
+EN_UA_DEV_100019.txt	Other	Other
+EN_UA_DEV_100026.txt	URW: Negative Consequences for the West	URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+EN_UA_DEV_100029.txt	Other	Other
+EN_UA_DEV_100033.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+EN_UA_DEV_100034.txt	Other	Other
+EN_UA_DEV_100036.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other;Other
+EN_UA_DEV_20.txt	URW: Discrediting the West, Diplomacy;URW: Speculating war outcomes	URW: Discrediting the West, Diplomacy: The West is weak;URW: Speculating war outcomes: Other
+EN_UA_DEV_213.txt	Other	Other
+EN_UA_DEV_214.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+EN_UA_DEV_215.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine;URW: Discrediting Ukraine	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Ukraine is a hub for criminal activities
+EN_UA_DEV_22.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The EU is divided
