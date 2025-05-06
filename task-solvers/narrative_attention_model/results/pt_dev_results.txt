@@ -1,0 +1,35 @@
+PT_203.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_208.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_216.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Other
+PT_233.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_241.txt	URW: Praise of Russia	URW: Praise of Russia: Other
+PT_259.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+PT_220.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_254.txt	URW: Praise of Russia	URW: Praise of Russia: Other
+PT_211.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_237.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: Other
+PT_250.txt	URW: Praise of Russia	URW: Praise of Russia: Other
+PT_224.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Other
+PT_228.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_253.txt	URW: Negative Consequences for the West	URW: Negative Consequences for the West: Other
+PT_209.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Other
+PT_202.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of national governments
+PT_232.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_245.txt	URW: Praise of Russia	URW: Praise of Russia: Other
+PT_206.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_201.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_249.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+PT_210.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_205.txt		
+PT_230.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_244.txt		
+PT_213.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Other
+PT_226.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_239.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+PT_221.txt		
+PT_234.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_207.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of national governments
+PT_217.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_204.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Other
+PT_229.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+PT_225.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other

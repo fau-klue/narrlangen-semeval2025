@@ -1,0 +1,35 @@
+HI_26.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_160.txt	URW: Russia is the Victim	URW: Russia is the Victim: The West is russophobic
+HI_51.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_114.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Other
+HI_17.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: Other
+HI_152.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_35.txt	URW: Distrust towards Media	URW: Distrust towards Media: Other
+HI_76.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Ukrainian army is collapsing
+HI_134.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_71.txt	URW: Praise of Russia	URW: Praise of Russia: Russia actions in Ukraine are only self-defence
+HI_19.txt		
+HI_139.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_126.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_151.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_125.txt		
+HI_97.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_143.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_156.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_75.txt		
+HI_5.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: Other
+HI_10.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_154.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+HI_28.txt		
+HI_11.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: Other
+HI_31.txt		
+HI_107.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_159.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+HI_110.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_158.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a puppet of the West
+HI_140.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_38.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_4.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_95.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_12.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_34.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Situation in Ukraine is hopeless
