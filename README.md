@@ -7,11 +7,11 @@ This repository accompanies our contribution to SemEval 2025 Task 10, SubTask 2:
 Our [task solvers](task-solvers/) comprise
 
 - simple (bag-of-words) machine learning [baselines](task-solvers/ml_baseline/),
-- prompt engineering of LLMs (only for English) [PromptEng](task-solvers/PromptEng/), 
+- prompt engineering of LLMs (only for English) ([PromptEng](task-solvers/PromptEng/)), 
 - a zero-shot approach based on [sentence similarity](task-solvers/sentence-similarity/),
 - direct classification of fine-grained labels using [SetFit](task-solvers/SetFit/), 
-- fine-tuning encoder models on fine-grained labels [FGM](task-solvers/FGM/), 
-- and [hierarchical classification](task-solvers/multi_label_hierarchical_model/), [narrative_attention_model](task-solvers/narrative_attention_model/) using encoder models with two different classification heads.
+- fine-tuning encoder models on fine-grained labels ([FGM](task-solvers/FGM/)), 
+- and [hierarchical classification](task-solvers/multi_label_hierarchical_model/), and [narrative_attention_model](task-solvers/narrative_attention_model/) using encoder models with two different classification heads.
 
 The manually crafted narrative descriptions – about [climate change](narrative-descriptions/Narrative_Description_ClimateChange-sentences.tsv) and the [War in Ukraine](narrative-descriptions/Narrative_Description_War_in_Ukraine-sentences.tsv) – are solely used in the sentence similarity approach.
 
